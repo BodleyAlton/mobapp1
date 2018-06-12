@@ -8,6 +8,8 @@
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\13\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\14\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\15\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\16\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\17\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\2\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\3\jl\support-annotations.jar</Jar>
     <Jar>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\4\jl\bin\classes.jar</Jar>
@@ -24,13 +26,10 @@
     <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\17\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\18\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\16\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\lp\10\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\17\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\18\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\11\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -40,7 +39,6 @@
     <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\17.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\18.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Alton\source\repos\XamagonXuzzleLP\XamagonXuzzle\XamagonXuzzle.Android\obj\Debug\lp\16.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
